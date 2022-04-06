@@ -3,5 +3,21 @@ body
     text-align: justify;
     font-family: "Arial";
     background-color: #DAF7A6;
-    color: #900C3F;
+    color: #144614;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    margin: 0 auto;
+    border: 1px solid #0c770c;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
