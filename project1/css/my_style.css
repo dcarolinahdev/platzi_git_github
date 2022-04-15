@@ -50,6 +50,11 @@ body
     padding: 1em;
 }
 
+#post #main_img
+{
+    width: 80%;
+}
+
 #footer
 {
     background: rgb(45, 100, 45);
